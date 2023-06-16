@@ -1,14 +1,14 @@
 # Type: Logger
 # Make: GEMS
-# Model(s): Kestrel v1.8
+# Model(s): Kestrel v1.9
 
-#### [MainLogger_1v8](MainLogger_1v8.mnt) 
+#### [MainLogger_1v9](MainLogger_1v9.mnt) 
 Position file for surface mount parts
 
-#### [MainLogger_1v8_2023-05-10](MainLogger_1v8_2023-05-10.zip)
+#### [MainLogger_1v9_2023-06-15](MainLogger_1v9_2023-06-15.zip)
 Gerber files for Haar PCB
 
-#### [MainLogger_1v8_BoM_2023-05-10](MainLogger_1v8_BoM_2023-05-10.csv)
+#### [MainLogger_1v9_BoM_2023-06-15](MainLogger_1v9_BoM_2023-06-15.csv)
 Bill of Materials for PCB assembly 
 
 ## PCB
