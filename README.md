@@ -8,7 +8,7 @@ Position file for surface mount parts
 #### [MainLogger_1v9_2023-06-15](MainLogger_1v9_2023-06-15.zip)
 Gerber files for Haar PCB
 
-#### [MainLogger_1v9_BoM_2023-06-15](MainLogger_1v9_BoM_2023-06-15.csv)
+#### [MainLogger_1v9_BoM_2023-06-29](MainLogger_1v9_BoM_2023-06-29.csv)
 Bill of Materials for PCB assembly 
 
 ## PCB
